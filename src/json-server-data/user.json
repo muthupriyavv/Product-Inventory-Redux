@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "gnanam@gmail.com",
+      "password": "gnanam",
+      "pswrepeat": "gnanam",
+      "id": 5
+    },
+    {
+      "email": "muthupriyavv@gmail.com",
+      "password": "july",
+      "pswrepeat": "july",
+      "id": 6
+    },
+    {
+      "email": "nafiya@gmail.com",
+      "password": "jul",
+      "pswrepeat": "jul",
+      "id": 7
+    },
+    {
+      "email": "muthulakshmanv@gmail.com",
+      "password": "muthu",
+      "pswrepeat": "muthu",
+      "id": 8
+    },
+    {
+      "email": "muthulakshmanv@gmail.com",
+      "password": "muthu",
+      "pswrepeat": "muthu",
+      "id": 9
+    },
+    {
+      "email": "vasu@gmail.com",
+      "password": "vasu2",
+      "pswrepeat": "vasu2",
+      "id": 10
+    }
+  ]
+}
